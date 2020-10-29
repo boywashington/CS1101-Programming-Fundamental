@@ -1,0 +1,41 @@
+Python 3.8.5 (tags/v3.8.5:580fbb0, Jul 20 2020, 15:43:08) [MSC v.1926 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/boywa/OneDrive/UO People CS/Courses/AY2021-T1 - CS 1101 Programming Fundamentals/Unit 2/tryme4.py
+Printing nine lines
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Printing 25 lines
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+>>> 
